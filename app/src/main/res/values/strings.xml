@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PdfView</string>
+    <string name="sign_contract">签约合同</string>
+    <string name="back_description">back</string>
+    <string name="download_and_load">下载至本地再加载</string>
+    <string name="load_pdf_by_io">以流的方式加载PDF</string>
+    <string name="load_pdf_by_download">下载到本地之后再加载</string>
+    <string name="load_pdf_by_asset">加载Asset目录下的PDF</string>
+    <string name="show_pdf_by_io">加载流的方式展示PDF</string>
+    <string name="show_pdf">展示PDF</string>
+    <string name="load_asset_pdf">加载ASSET中的PDF</string>
+</resources>
